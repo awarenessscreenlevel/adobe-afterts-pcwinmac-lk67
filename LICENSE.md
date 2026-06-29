@@ -1,4 +1,4 @@
-# 
+# 极速 Adobe After Effects 预设 Mac OS版 | 更新 Adobe After Effects 预设 PC Windows版。集成 频谱视图 和 自动剪辑，跨平台性能最大化。
 
 
 
